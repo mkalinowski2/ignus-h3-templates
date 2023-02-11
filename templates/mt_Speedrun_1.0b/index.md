@@ -24,7 +24,7 @@ This template is focused on fast contact with other player game. There are 3 tp'
 * Sim turns: yes, 117
 * Additional rules:
     * The early encounter restart is disabled.
-    * Each player has only a single day 1 (1x111) 12 subjective restart available.
+    * Each player has only a single day 1 (1x111) 1 subjective restart available.
 
 ### Template specifications
 
