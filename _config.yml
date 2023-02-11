@@ -1,0 +1,5 @@
+title: HoMM3 Ignus Templates Vault
+description: A Vault of H3 RMG Ignus templates mantained by Ignus.
+theme: jekyll-theme-slate
+plugins:
+  - jekyll-sitemap
