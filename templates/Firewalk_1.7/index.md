@@ -1,31 +1,30 @@
 ﻿---
-title: mt_Firewalk 1.6e
+title: Firewalk 1.7
 ---
 
 [<<-home](../..)
 
-## mt_Firewalk 1.6e
+## Firewalk 1.7
 
-[Download mt_Firewalk 1.6e](./mt_Firewalk_1.6e.zip)
+[Download Firewalk 1.7](./Firewalk_1.7.zip)
 
 ### Description
-This is the mirrorized version of the [Firewalk 1.7](../Firewalk_1.7) template.
 This template is focused on highly dynamic game. Player starting zones contain 3 towns and are very rich, but with some custom rules: 1 dwelling of 7th level and 2 dwellings of 6th level, and Pandora’s boxes with experience, are always present; Dragon Utopias and banks which give creatures in reward are forbidden. The connection to white zone is worth opening soon: there the big piles of gold, banks with gold in reward and a Conflux village can be found. Besides white zone, there are 3 treasure zones present on the template: “Creature Bank zone”, “Big Sand zone” and “Dragon Utopia zone”.
 
 ### Recommended settings
 * Map size: XL+U (recommended) or L+U
-* Player count: 2 (recommended) or 4
-* AI players: 0 (recommended) or 2
-* Teams: none (recommended) or (red + tan vs blue + green)
+* Player count: 2
+* AI players: 0 
+* Teams: none
 * Water: none
 * Monsters: strong
 * Difficulty: 130%
 * Chess timer: 20+8+2
 * Roads: fast
-* Sim turns: yes, 117
+* Sim turns: yes, 114
 * Additional rules:
     * The early encounter restart is disabled.
-    * Each player has only a single day 1 (1x111) subjective restart available.
+    * Each player has only a single day 1 (2x111) 2 subjective restart available or a day 2 (1x111).
     * Allowed artifacts: Orb of Inhibition and Recanter’s Cloak.
 	* Player starting zone is his first opened zone.
 	* Player open guarded zone by defending PG to specific zone.
@@ -40,15 +39,16 @@ This template is focused on highly dynamic game. Player starting zones contain 3
 * Map size: XL+U (underground will be a copy of the surface layer)
 * Zones 1 is the player starting zone.
 	* Zone have 2 Castles and 1 Town, all are same fraction as Player and belongs to Player from beggining
-	* Zone contains 2 internals portals inside zone, unguarded. 
     * Treasure values: (300-3000, 10), (5000-16000, 6), (12000-22000, 1)
     * Terrain is corresponding to the towns chosen by the players.
+	* Zone contains 2 internals portals inside zone, unguarded. 
     * The following objects should always spawn in this zone:
         * Dwellings of level 7 - 1 time
         * Dwellings of level 6 - 2 times
     * The following objects are banned in this zone:
         * All banks with army reward (Griffin conservatory, Red tower...)
 		* All pandora boxes except pandora boxes with experience
+		* All range unit dwellings from level 1-3 
 		* Dragon utopias
 		* Spell scrolls with control
 		* Warrior tomb
@@ -58,6 +58,7 @@ This template is focused on highly dynamic game. Player starting zones contain 3
 		* Pandora box with 5000 experience (100 frequency)
 		* Pandora box with 10000 experience (50 frequency)
 	* The following objects have spawn max limit:
+		* Dwellings of each level from 2-5: 2
 		* Library of Enlightenment - 1
 		* Mercenary Camp - 5
 		* Marletto Tower - 5
@@ -133,18 +134,4 @@ This template is focused on highly dynamic game. Player starting zones contain 3
 * Enabled Artifacts:
 	* Recanter's Cloak
 	* Orb of Inhibition
-* Banned Heroes
-    * Castle: 
-    * Rampart: Kyrre
-    * Tower: Solmyr
-    * Necropolis: Aislinn, Thant 
-    * Dungeon: Gunnar, Alamar, Jeddite, Deemer
-    * Stronghold: Dessa
-    * Conflux: Luna, Labetha, Grindan
-    * Cove: Miriam
-* Enabled Heroes
-    * Castle: Roland
-    * Necropolis: Haart Lich
-    * Dungeon: Murate Drake, Mutare
-    * Stronghold: Boragus
 * Combat turn limit: 100
