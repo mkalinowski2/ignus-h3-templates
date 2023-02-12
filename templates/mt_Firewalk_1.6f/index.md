@@ -9,7 +9,8 @@ title: mt_Firewalk 1.6f
 [Download mt_Firewalk 1.6f](./mt_Firewalk_1.6f.zip)
 
 ### Changes from last version ([mt_Firewalk 1.6e](../mt_Firewalk_1.6e) template)
-* AI zone can have any fraction towns and terrain
+* "AI" zone can have any fraction towns and terrain
+* Playing with AI or 2vs2 is no longer posible to play that mode please use mt_Firewalk_1.6e version
 
 ### Description
 This is upgraded mirror version of the [mt_Firewalk 1.6e](../mt_Firewalk_1.6e) template.
@@ -17,9 +18,9 @@ This template is focused on highly dynamic game. Player starting zones contain 3
 
 ### Recommended settings
 * Map size: XL+U (recommended) or L+U
-* Player count: 2 (recommended) or 4
-* AI players: 0 (recommended) or 2
-* Teams: none (recommended) or (red + tan vs blue + green)
+* Player count: 2
+* AI players: 0
+* Teams: none
 * Water: none
 * Monsters: strong
 * Difficulty: 130%
