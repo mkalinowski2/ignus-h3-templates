@@ -16,7 +16,7 @@ title: mt_Firewalk 2.0
 * guard from gold zone to other gold zone is 5k
 * guard to "AI" zone is 15k
 * sand zone is splitted to 3 treasure zones with same rules
-	* middle one is sand and is no guarded, have 3 tps to other side, but accessible from two others treasure zones
+	* middle one is sand and is no guarded, have 2 tps to other side, but accessible from two others treasure zones
 	* two others can have terrain (Snow/Swamp/Rough/Wasteland)
 
 ### Description
