@@ -80,9 +80,9 @@ This template is focused on highly dynamic game. Player starting zones contain 3
 	* It has same settings as Zone 1
 * Zone 1 is the big sand zone.
     * Terrain is always sand.
+    * Pandora boxes contains only 15k or 20k experience reward ord whole magic (air, earth, water, fire)
     * The following objects are banned in this zone:
         * All banks with army reward (Griffin conservatory, Red tower...)
-	* All pandora boxes except: pandora boxes with 15k or 20k experience reward, and with whole magic (air,earth,water,fire)
 	* All dwellings
 	* Dragon utopias
         * 2 Dwellings of level 6
@@ -94,6 +94,7 @@ This template is focused on highly dynamic game. Player starting zones contain 3
 * Zone 4 is the big treasure.
     * Terrain is always snow/swamp/rough/wasteland.
 	* Zone have 1 Castle
+	* Pandora boxes contains only 15k or 20k experience reward ord whole magic (air, earth, water, fire)
     * The following objects are banned in this zone:
         * All banks with army reward (Griffin conservatory, Red tower...)
 	* All pandora boxes except pandora boxes with 15k or 20k experience reward, and pandoras with whole magic (air,earth,water,fire)
@@ -108,9 +109,9 @@ This template is focused on highly dynamic game. Player starting zones contain 3
 * Zone 5 is the big sand zone.
     * Terrain is always snow/swamp/rough/wasteland.
 	* Zone have 1 Castles
+	* Pandora boxes contains only 15k or 20k experience reward ord whole magic (air, earth, water, fire)
     * The following objects are banned in this zone:
         * All banks with army reward (Griffin conservatory, Red tower...)
-	* All pandora boxes except pandora boxes with 15k or 20k experience reward, and pandoras with whole magic (air,earth,water,fire)
 	* All dwellings
 	* Dragon utopias
         * 2 Dwellings of level 6
