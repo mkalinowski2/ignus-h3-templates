@@ -11,6 +11,7 @@ title: mt_Firewalk 2.1
 ### Changes from last version
 * add city for middle sand zone
 * restored heroes starting with Intellect skill
+* gold zones slightly richer
 * add Golden Goose artifact
 * add Pirate Cavern to bank zone (average 4, max 4, only on rough terrain)
 
