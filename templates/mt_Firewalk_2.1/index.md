@@ -6,7 +6,7 @@ title: mt_Firewalk 2.1
 
 ## mt_Firewalk 2.1
 
-[Download mt_Firewalk 2.1](./mt_Firewalk_2.1.zip)
+[Download mt_Firewalk 2.1](./mt_Firewalk_2.1.h3t)
 
 ### Changes from last version
 * add city for middle sand zone
