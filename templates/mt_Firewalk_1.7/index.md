@@ -6,7 +6,7 @@ title: mt_Firewalk 1.7
 
 ## mt_Firewalk 1.7
 
-[Download mt_Firewalk 1.7](./mt_Firewalk_1.7.zip)
+[Download mt_Firewalk 1.7](./mt_Firewalk_1_7.zip)
 
 ### Changes from last version (1.6e)
 * add AI zone which should be set with Conflux town, Random hero and bonus
