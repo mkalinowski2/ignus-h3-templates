@@ -11,4 +11,4 @@ All of the following templates are licensed under [CC-BY-SA 4.0](https://github.
 * [Firewalk 1.7](./templates/Firewalk_1.7) - Rich template with 3 castles on start and with fast gameplay
 * [mt_Speedrun 1.0b](./templates/mt_Speedrun_1.0b) - One zone mirror template - this is focused on fast contact with other player game
 * [mt_TryHard](./templates/mt_TryHard) - This template is mirrorized version of 6lm10a with disabled spells modifing unit speed and resurrection spells.
-* [8lu6tp](./templates/8lu6tp) - This L+U template is inspired on original templates from standard pack (with spell pool which guarantee tp from 0-4 rolls in guild)
+* [8lu6tp](./templates/8lu6tp) - HOTA Factory Compatible - This L+U template is inspired on original templates from standard pack (with spell pool which guarantee tp from 0-4 rolls in guild)

@@ -9,6 +9,7 @@ title: 8lu6tp
 [Download 8lu6tp](./8lu6tp.zip)
 
 ### Description
+Compatible with HoTA Factory 
 This L+U template is inspired on original templates from standard pack (with spell pool which guarantee tp from 0-4 rolls in guild)
 
 ### Recommended settings
