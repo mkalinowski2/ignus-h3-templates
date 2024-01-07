@@ -10,7 +10,7 @@ title: 8lu6tp
 
 ### Description
 Compatible with HoTA Factory 
-This L+U template is inspired on original templates from standard pack (with spell pool which guarantee tp from 0-4 rolls in guild)
+This L+U template is inspired on original templates from standard pack.
 
 ### Recommended settings
 * Map size: L+U
