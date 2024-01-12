@@ -2,7 +2,8 @@ All templates listed are designed for the Horn of the Abyss modification.
 All of the following templates are licensed under [CC-BY-SA 4.0](https://github.com/mkalinowski2/ignus-h3-templates/blob/master/license.md) license. The preferred form of atribution is linking back to this site.
 
 ### Ignus Templates
-* [mt_Firewalk 2.2](./templates/mt_Firewalk_2.2) - Hotfix version of mt_Firewalk_2.1 after Factory update
+* [mt_Firewalk 2.2a](./templates/mt_Firewalk_2.2a) - Hotfix without AI version of mt_Firewalk_2.1 after Factory update
+* [mt_Firewalk 2.2](./templates/mt_Firewalk_2.2) - Hotfix with AI version of mt_Firewalk_2.1 after Factory update
 * [mt_Firewalk 2.1](./templates/mt_Firewalk_2.1)
 * [mt_Firewalk 2.0](./templates/mt_Firewalk_2.0)
 * [mt_Firewalk 1.7](./templates/mt_Firewalk_1.7) - Hotfix version of mt_Firewalk_1.6e after Factory update
